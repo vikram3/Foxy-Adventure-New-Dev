@@ -1,0 +1,1 @@
+pyinstaller --onedir send_log.py --collect-data "easygui" --distpath "./crashreport/osx/dist" --workpath "./crashreport/osx/build"
